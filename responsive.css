@@ -1,0 +1,27 @@
+@media (min-width: 40rem) {
+
+	.backdrop {
+		top: 8.5%;
+	}
+}
+
+@media (min-width: 50rem) {
+
+	.backdrop {
+		top: 8%;
+	}
+}
+
+@media (min-width: 65rem) {
+	.mobile-header {
+		display: none;
+	}
+
+	.main-header {
+		display: block;
+	}
+
+	.backdrop {
+		top: 16%;
+	}
+}
